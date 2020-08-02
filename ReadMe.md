@@ -1,4 +1,4 @@
-### Examples from Getting Started with Kotlin
+### Examples from Plural Sight course - Getting Started with Kotlin
 By Kevin Jones
 
 Module 3
